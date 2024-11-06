@@ -25,7 +25,7 @@ Applied NumPy, pandas, and matplotlib to analyze and visualize data trends.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/al1A91/finalCapstone.git
+   https://github.com/al1A91/insurance_cost.git
 
 
 2. Install the required libraries:
