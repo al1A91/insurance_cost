@@ -10,7 +10,6 @@ Applied NumPy, pandas, and matplotlib to analyze and visualize data trends.
 - [Requirement](#requirement)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Sample Output](#sample-output)
 - [License](#license)
 
 ## Requirement
